@@ -1,26 +1,40 @@
-#### Hi there👋 I'm Abinesh Thaventhirarajah....! 
-  - Undergraduate | Computer Science and Engineering University of Moratuwa | Specializing in Data Science 📊
-<!-- <div align = 'right'>![](https://komarev.com/ghpvc/?username=abinesht&color=yellow)</div> -->
+### Hi there, I'm Abinesh Thaventhirarajah! 👋
 
-### Technologies:
-<img align="left" alt="html" width="50px" height="20px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="js" width="50px" height="20px"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="numpy" width="50px" height="20px"  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img align="left" alt="pandas" width="50px" height="20px"  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img align="left" alt="php" width="50px" height="20px"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="python" width="50px" height="20px"  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="left" alt="tableau" width="50px" height="20px"  src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img align="left"  alt="mysql" width="50px" height="20px"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="xd" width="50px" height="20px"  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-<img align="left" alt="bootstrap" width="50px" height="20px"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="jquery" width="50px" height="20px"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img align="left" alt="jupyter" width="50px" height="20px"  src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img align="left" alt="react" width="50px" height="20px"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="redux" width="50px" height="20px"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+I'm an Undergraduate in Computer Science and Engineering at the University of Moratuwa, specializing in Data Science 📊. Passionate about technology, I'm on a journey to blend innovation with practical solutions in the fields of software engineering and machine learning.
 
-<br/>
-<br/>
+#### 🚀 Quick Stats:
+- 🎓 CGPA: 3.78 at University of Moratuwa
+- 🏅 Dean's List - 1st, 2nd, 3rd, and 4th semester
+- 🌍 From Jaffna, Sri Lanka
 
+#### 💼 Professional Experience:
+- **Machine Learning Engineering Intern** at Insighture
+  - Jan 2023 - Jun 2023
+  - Worked with SpaCy, Hugging Face, PyTorch, and explored time series forecasting and anomaly detection.
+- **Visiting Teaching Assistant - CS1033** at University of Moratuwa
+  - Aug 2023 - Oct 2023
+  - Assisted students in Programming Fundamentals, lab sessions, and problem creation.
+
+#### 🛠️ Skills & Technologies:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+#### 📞 Contact Me:
+- 📧 Email: abinesht12@gmail.com
+- 🔗 [GitHub](https://github.com/abinesht)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abineshthaventhirarajah/)
+- 🔗 [Portfolio](https://abinesh.dev/)
 
 <br />
 
