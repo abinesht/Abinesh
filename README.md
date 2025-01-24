@@ -38,7 +38,6 @@ I'm an Undergraduate in Computer Science and Engineering at the University of Mo
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=abinesht" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinesht" />
 <br/>
